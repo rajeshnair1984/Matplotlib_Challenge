@@ -1,2 +1,2 @@
-# Matplotlip_Homework
+# Matplotlip_Challenge
 Pymaceuticals
